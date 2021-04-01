@@ -1,2 +1,6 @@
-# Systems-Analysis-Final
-All of the files in project were submitted as my final project for the Analysis of Mobile Software Systems course I took at Seton Hill University in the Fall of 2020 with Professor Brad Messner
+# Systems Analysis
+All of the files in project were submitted as my final project for the Analysis of Mobile Software Systems course I took at Seton Hill University in the Fall of 2020 with Professor Brad Messner. Despite the title of the course, this class was devoted to analyzing all types of systems, not simply mobile.
+
+This final project asked me to innovate and create a concept for a new brand new application/system and create documents that illustrate the majority of the steps that would be taken if this application/system were being professionally pursued and developed. This recreation of the SDLC (Software/System Development Life Cycle) includes (but is not limited to): An extensive project management plan, a requirements document, a use case diagram, UML documents for proposed programmed classes and database models, a construction and installation nuances doucment, and prototype sketches of the applications interface.
+
+My specific application/system is called HIPA - Holographic Interface Personal Assistant. I thought of HIPA as a simply task and schedule tracking app, except with the twist that the application allows for a holographic and interactable user interface. I wanted to challenge myself to analyze this type of system and app since the technology does not exist on the widely available level that I envisioned HIPA to be.
